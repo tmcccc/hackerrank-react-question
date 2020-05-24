@@ -1,4 +1,4 @@
-# hackerrank-react-question
-birthday and names sorting
+# hackerrank-react-question Birthday Records
+Birthday Records
 
 birthday and names sorting
